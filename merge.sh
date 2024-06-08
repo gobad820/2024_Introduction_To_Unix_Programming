@@ -1,2 +1,2 @@
 #!/bin/zsh
-cat ch*/ch*.md > README.md
+cat ch{07..10}/ch{07..10}.md > README.md
