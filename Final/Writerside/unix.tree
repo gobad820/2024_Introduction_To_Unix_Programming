@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="unix"
+                  name="unix"
+                  start-page="ch07.md">
+    <toc-element topic="ch07.md"/>
+    <toc-element topic="ch08.md"/>
+    <toc-element topic="ch09.md"/>
+    <toc-element topic="excercise_ch07.md"/>
+    <toc-element topic="excercise_ch08.md"/>
+
+</instance-profile>
